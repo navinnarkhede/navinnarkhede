@@ -5,7 +5,7 @@
 
 ### 💫 About Me
 
-🎓 I’m currently pursuing **PG-DAC** (Post Graduate Diploma in Advanced Computing) from **CDAC**  
+🎓 I’m currently completed **PG-DAC** (Post Graduate Diploma in Advanced Computing) from **CDAC**  
 🎓 I also hold a **Master's Degree in Computer Applications (MCA)** from **North Maharashtra University**  
 💻 With a background in computer science and specialized training in advanced computing  
 🚀 I'm passionate about bridging the gap between technical and digital solutions  
